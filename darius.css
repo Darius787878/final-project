@@ -1,0 +1,15 @@
+body{
+    display:flex;
+}
+.words{
+    width:20%;
+}
+.second{
+    font-size: 45px;
+}
+.first{
+    font-size: 70px;
+}
+img{
+    width: 700px;
+}
